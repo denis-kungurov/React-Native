@@ -1,0 +1,2 @@
+export const MAIN_SCREEN = 'MAIN_SCREEN'
+export const SECOND_SCREEN = 'SECOND_SCREEN'

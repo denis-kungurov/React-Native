@@ -1,0 +1,8 @@
+export const MYAPP_HOME = 'MYAPP_HOME'
+export const MYAPP_TIC_TAC_TOE = 'MYAPP_TIC_TAC_TOE'
+
+export const MYAPP2_HOME = 'MYAPP2_HOME'
+export const MYAPP2_TIC_TAC_TOE = 'MYAPP2_TIC_TAC_TOE'
+
+export const MYAPP3_HOME = 'MYAPP3_HOME'
+export const MYAPP3_TIC_TAC_TOE = 'MYAPP3_TIC_TAC_TOE'
